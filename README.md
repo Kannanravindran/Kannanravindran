@@ -1,5 +1,4 @@
-<h1 align="center">hey, I'm Kannan 👋</h1>
-
+<h1 align="center">Building intelligent systems, one commit at a time.</h1>
 <p align="center">
   <em>Software Architect · Generative AI Engineer · Open Source Enthusiast</em>
 </p>
