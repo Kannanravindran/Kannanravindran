@@ -71,7 +71,6 @@ kannan = {
 ### 🎓 background
 
 - **MS Computer Science** — Arizona State University *(AI, ML, Systems Security)*
-- **BE Computer Science** — Anna University
 
 ---
 
