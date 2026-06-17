@@ -13,7 +13,7 @@
 
 ### 🧠 about me
 
-I build things that think. 8+ years of turning complex problems into intelligent software — from AI-powered automation and LLM pipelines to blockchain systems and dark web threat intelligence.
+I build things that think. 8+ years of turning complex problems into intelligent software — from AI-powered automation and LLM pipelines to blockchain systems.
 
 Currently obsessed with **Generative AI**, **RAG architectures**, and **agentic AI workflows**. If it involves making machines smarter, I'm probably already hacking on it.
 
@@ -64,7 +64,6 @@ kannan = {
 - 💬 **Boss & Worker AI Agents** — orchestrated multi-agent workflows for scheduling & issue resolution
 - 📊 **Smart Invoice Queue** — Gen AI + ML to extract invoice features and reconcile accounts in real-time
 - 🔍 **NLP Survey Analyzer** — 360° feedback analysis with sentiment & generative comment review
-- 🕸️ **Darkweb Crawler** — multithreaded framework for cyber threat intelligence (provisional US Patent filed)
 - 🤝 **ChatBots featured in Forbes** — Facebook & Slack bots built with Python/Flask, used by real brands
 
 ---
